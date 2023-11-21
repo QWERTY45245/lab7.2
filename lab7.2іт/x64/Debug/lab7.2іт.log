@@ -1,0 +1,3 @@
+﻿  lab7.2іт.cpp
+C:\Users\Admin\source\repos\lab7.2іт\lab7.2іт.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab7.2іт.vcxproj -> C:\Users\Admin\source\repos\lab7.2іт\x64\Debug\lab7.2іт.exe
